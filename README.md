@@ -101,4 +101,6 @@ Docker, Apache, DB
 ## About
  
 Built by Demilade — Cybersecurity student at Lead City University, Nigeria. Currently on SIWES industrial training at Nigerian Navy QUORRA. Aspiring SOC Analyst and Digital Forensics specialist. Security+ in progress.
- 
+
+
+Connect: https://www.linkedin.com/in/demilade-ogun-31420423b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
