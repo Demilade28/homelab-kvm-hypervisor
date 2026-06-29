@@ -1,6 +1,5 @@
 # homelab-kvm-hypervisor
 
-# homelab-kvm-hypervisor
  
 > Production-grade KVM/QEMU hypervisor lab built during SIWES industrial training at Nigerian Navy QUORRA. Three VMs, three physical disks, full Active Directory domain, Docker services stack.
  
